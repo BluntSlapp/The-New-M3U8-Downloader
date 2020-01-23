@@ -1,3 +1,8 @@
+This is my English translation and ui fix for this program. Its not perfect, but I've made it usable if only speak english.
+
+Original README is as follows:
+
+
 Please go to https://github.com/nilaoda/N_m3u8DL-CLI 
 
 请使用 https://github.com/nilaoda/N_m3u8DL-CLI
