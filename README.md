@@ -1,4 +1,4 @@
-This is my English translation and ui fix for this program. Its not perfect, but I've made it usable if you only speak english.
+This is my English translation and UI fix for this program. Its not perfect, but I've made it usable if you only speak English.
 
 The files in the bin/debug and are the original versions and should be deleted before building this updated version.
 
